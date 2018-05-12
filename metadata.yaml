@@ -1,0 +1,27 @@
+_repo: Die-Aquarell-MalereiBemerkungen--ber-die-Technik-derselben-in-ihrer-Anwendung-auf-die-Landsch__45544
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45544-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Schmidt, Max
+    birthdate: 1874
+    deathdate: 1950
+    gutenberg_agent_id: '43346'
+    url: http://www.gutenberg.org/2009/agents/43346
+description: ''
+gutenberg_issued: '2014-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45544'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Watercolor painting -- Technique'
+- !lcc 'ND'
+title: "Die Aquarell-Malerei\r\nBemerkungen über die Technik derselben in ihrer Anwendung\
+  \ auf die Landschafts-Malerei. Dritte Auflage."
+url: http://www.gutenberg.org/ebooks/45544
