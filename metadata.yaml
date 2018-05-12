@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43346'
     url: http://www.gutenberg.org/2009/agents/43346
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45544#Die-Aquarell-MalereiBemerkungen--ber-die-Technik-derselben-in-ihrer-Anwendung-auf-die-Landsch_
 gutenberg_issued: '2014-04-30'
 gutenberg_type: Text
 identifiers:
